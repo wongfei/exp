@@ -1,19 +1,24 @@
+## x-files
+
+Need some R&D but don't have research department? No problem, just hire me :)
+
+Win, Linux, Embedded, C, C++, C#, Java&#x267f;
 
 ### Year of UE4 [2019]
 
-Android sensors plugin
+Android sensors plugin (read sensor values in realtime over Wi-Fi, [video](https://www.youtube.com/watch?v=8IrdZ175Fpw))
 
-Arduino hardware integration
-
-RPLidar A1 plugin
+Arduino device communication plugin
 
 Yost 3-Space sensor plugin
 
-Blackmagic DeckLink capture card plugin
+RPLidar A1 plugin (virtual touch screen)
+
+Blackmagic DeckLink plugin (capture video and render to texture at 4k 60fps)
 
 ### Assetto Corsa reverse engineering [2019]
 
-C++
+Decompile game engine, generate C++ SDK for modding
 
 ### PowerFC digital dashboard [2018]
 
@@ -45,11 +50,17 @@ C++
 
 ![img](img/ue4-realsense.jpg)
 
-### UE4 multi camera DVR plugin [2017]
+### UE4 multi-camera DVR plugin [2017]
 
-C++, Leadtools SDK, [video](https://youtu.be/WmC1f3ctCck)
+C++, Leadtools Multimedia SDK, [video](https://youtu.be/WmC1f3ctCck)
 
 ![img](img/ue-dvr-1.jpg)
+
+### Kernel mode anti/cheat research [2017]
+
+C++, WDK, UE4, [video](https://www.youtube.com/watch?v=mCRV0-WnZrg)
+
+![img](img/ez-be.jpg)
 
 ### Multiplayer mod for Mother Russia Bleeds [2016]
 
@@ -103,7 +114,7 @@ Motor control, encoders, PID, telemetry, remote control, video streaming
 
 ### Quadrotor telemetry system [2013]
 
-C, C++, RaspberryPi, eLinux
+C, C++, RaspberryPi, eLinux, MAVLink
 
 ![img](img/q-v4-8.jpg)
 
@@ -119,7 +130,7 @@ C++, C#
 
 ![img](img/ai02.jpg)
 
-### Bot for MMORTS Stronghold Kingdoms [2012]
+### Top rated 24x7 bot for MMORTS Stronghold Kingdoms [2012]
 
 C#, Mono, ASP.NET, LAMP
 
@@ -166,3 +177,7 @@ C++, OpenGL, [video](https://www.youtube.com/watch?v=0ndrp_TOmK4)
 C++, ActionScript3, Flex
 
 ![img](img/mp4.jpg)
+
+### Random stuff
+
+![img](img/stuff-1.jpg)
