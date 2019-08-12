@@ -198,6 +198,6 @@ C++, ActionScript3, Flex
 
 ![img](img/mp4.jpg)
 
-### Misc [200x]
+### Misc
 
-![img](img/stuff-1.jpg)
+![img](img/stuff-2.jpg)
