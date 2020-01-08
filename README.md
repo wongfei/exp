@@ -2,6 +2,7 @@
 
 ### 2019
 
+* Realtime SLAM on Jetson TK1 board (C++, eLinux, ORB_SLAM2, OpenVSLAM)
 * Android sensor reader plugin (C++, UE4, Java, Android)
 * Arduino device communication plugin (C, C++, UE4)
 * RPLidar A1 plugin for virtual touch screen project (C++, UE4)
@@ -46,9 +47,9 @@
 
 ### 2012
 
+* Bot for Stronghold Kingdoms MMORTS (C#, Mono, ASP.NET)
 * Profile and optimize OpenNI SDK (C, C++, eLinux, PandaBoard)
 * OpenNI browser plugin (C++, boost, NPAPI, Firebreath)
-* Bot for Stronghold Kingdoms MMORTS (C#, Mono, ASP.NET)
 
 ### 2011
 
@@ -59,163 +60,141 @@
 
 * Data analysis and report generation module (C++, WinAPI, MFC, ODBC)
 * Modbus TCP/RTU module (C++, WinAPI, WinSock, MFC)
+* Hidden objects puzzle game (Lua, Playground SDK)
 * Control system of industrial process (C, Codesys, Wago, PLC)
 * Port corporate web portal (C#, ASP.NET2, MSSQL)
+* Position based dynamics simulation (C++, OpenGL)
 
 ## Showroom
 
 ### PowerFC ECU digital dashboard
 
-C++, Qt, eLinux, RaspberryPi, [video](https://www.youtube.com/watch?v=ydlUFpkKHHQ)
-
 ![img](img/rx7-dash.jpg)
 
-### Rotary engine compression tester
+[video](https://www.youtube.com/watch?v=ydlUFpkKHHQ)
 
-C, C#, STM32
+### Rotary engine compression tester
 
 ![img](img/rekt4.jpg)
 
 ### RealSense2 driver for OpenNI2
 
-C++
-
 ![img](img/rs2-oni-driver.jpg)
 
 ### RealSense2 plugin
-
-C++, UE4
 
 ![img](img/ue4-realsense.jpg)
 
 ### GStreamer plugin
 
-C++, UE4, [video](https://www.youtube.com/watch?v=eCLCdaSIxBA)
-
 ![img](img/ue4-gstreamer.jpg)
+
+[video](https://www.youtube.com/watch?v=eCLCdaSIxBA)
 
 ### Game security research
 
-C, C++, IDA, WDM, DKOM, DX11, UE4, [video](https://www.youtube.com/watch?v=mCRV0-WnZrg)
-
 ![img](img/ez-be.jpg)
+
+[video](https://www.youtube.com/watch?v=mCRV0-WnZrg)
 
 ### Multicamera DVR plugin
 
-C++, UE4, Leadtools Multimedia SDK, [video](https://youtu.be/WmC1f3ctCck)
-
 ![img](img/ue-dvr-1.jpg)
+
+[video](https://youtu.be/WmC1f3ctCck)
 
 ### OpenNI plugin
 
-C++, UE4, [video](https://youtu.be/RC-qtsRBQ6g)
-
 ![img](img/ue4-ni.jpg)
 
-### Mother Russia Bleeds multiplayer mod
-
-C#, Unity, [video](https://youtu.be/FMiY1QO8nvo)
-
-![img](img/mrb1.jpg)
-
-### Punisher remake
-
-Blueprints, UE4, [video](https://youtu.be/bAQ50G9Cz6U)
-
-![img](img/pu_2.jpg)
+[video](https://youtu.be/RC-qtsRBQ6g)
 
 ### Image generator for helicopter pilot training system
 
-C++, UE4, RakNet, [video](https://www.youtube.com/watch?v=MFQ4Z8JBNjY)
-
 ![img](img/h4.jpg)
+
+[video](https://www.youtube.com/watch?v=MFQ4Z8JBNjY)
+
+### Punisher remake
+
+![img](img/pu_2.jpg)
+
+[video](https://youtu.be/bAQ50G9Cz6U)
+
+### Mother Russia Bleeds multiplayer mod
+
+![img](img/mrb1.jpg)
+
+[video](https://youtu.be/FMiY1QO8nvo)
 
 ### Augmented reality app for Dota2
 
-C++, Android, NDK, OpenCV, [video](https://www.youtube.com/watch?v=CLN2cCn6FqY)
-
 ![img](img/imbapick2.jpg)
+
+[video](https://www.youtube.com/watch?v=CLN2cCn6FqY)
 
 ### Game movie recording tool
 
-C++, C#, WinAPI, DX11, [video](https://www.youtube.com/watch?v=SFS9CT7n8Ps)
-
 ![img](img/bcam.jpg)
 
-### Chrome extension for BFBC2 server monitoring
+[video](https://www.youtube.com/watch?v=SFS9CT7n8Ps)
 
-JavaScript
+### Chrome extension for BFBC2 server monitoring
 
 ![img](img/bfbcmon.jpg)
 
 ### Robot platform firmware
 
-C, C++, STM32, JetsonTK1, eLinux, Android, OpenNI, RakNet, GStreamer, [video](https://www.youtube.com/watch?v=fAfRT1DMnEk)
-
 ![img](img/robo-v1-5.jpg)
 
-### Quadrotor telemetry system
+[video](https://www.youtube.com/watch?v=fAfRT1DMnEk)
 
-C, C++, RaspberryPi, eLinux, OpenNI, ArduPilot, MavLink
+### Quadrotor telemetry system
 
 ![img](img/q-v4-8.jpg)
 
 ### 2D rendering library for RaspberryPi
- 
-C++, eLinux, GLES2
 
 ![img](img/rpi-rgbd-1.jpg)
 
 ### Squad AI for Codetroopers contest
- 
-C++, C#
 
 ![img](img/ai02.jpg)
 
 ### Bot for Stronghold Kingdoms MMORTS
 
-C#, Mono, ASP.NET, LAMP
-
 ![img](img/shk1.jpg)
 
 ### Ragdoll controlled by motion sensor
 
-C++, Box2D, OpenNI
-
 ![img](img/sensorgame.jpg)
 
-### Ship simulation system
-
-C++, C#, VegaPrime
+### Naval simulation
 
 ![img](img/navy1.jpg)
 
 ### Pacman clone for XPN 2011 contest
- 
-C++, Irrlicht, [video](https://www.youtube.com/watch?v=tcP1Ofe73r4)
 
 ![img](img/xpn4.jpg)
 
-### Crimsonland clone with multiplayer
+[video](https://www.youtube.com/watch?v=tcP1Ofe73r4)
 
-C++, Lua, HGE, [video](https://www.youtube.com/watch?v=VSnM0xXw5oA)
+### Crimsonland clone with multiplayer
 
 ![img](img/crimson4.jpg)
 
+[video](https://www.youtube.com/watch?v=VSnM0xXw5oA)
+
 ### Hidden objects puzzle game
- 
-C++, Lua, Playground SDK
 
 ![img](img/mi1.jpg)
 
 ### Position based dynamics simulation
 
-C++, OpenGL, [video](https://www.youtube.com/watch?v=0ndrp_TOmK4)
-
 ![img](img/deformation1.jpg)
 
-### Minesweeper online
+[video](https://www.youtube.com/watch?v=0ndrp_TOmK4)
 
-C++, ActionScript3, Flex
+### Minesweeper online :D
 
 ![img](img/mp4.jpg)
