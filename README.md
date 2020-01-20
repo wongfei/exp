@@ -2,7 +2,7 @@
 
 ### 2019
 
-* Realtime SLAM on Jetson TK1 board (C++, eLinux, ORB_SLAM2, OpenVSLAM)
+* Robot platform odometry and SLAM (C++, eLinux, JetsonTK1, OpenNI2, OctoMap, ORB_SLAM2, OpenVSLAM)
 * Android sensor reader plugin (C++, UE4, Java, Android)
 * Arduino device communication plugin (C, C++, UE4)
 * RPLidar A1 plugin for virtual touch screen project (C++, UE4)
@@ -66,6 +66,12 @@
 * Position based dynamics simulation (C++, OpenGL)
 
 ## Showroom
+
+### Depth mapping
+
+![img](img/depth-mapping.jpg)
+
+[video](https://www.youtube.com/watch?v=zUFaG2EHwf4)
 
 ### PowerFC ECU digital dashboard
 
