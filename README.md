@@ -1,5 +1,11 @@
 ## Exp
 
+[Skip boring text..](#showroom)
+
+### 2020
+
+* Reverse engineer and reimplement racing simulator physics (C++, UE4)
+
 ### 2019
 
 * Robot platform odometry and SLAM (C++, eLinux, JetsonTK1, OpenNI2, OctoMap, ORB_SLAM2, OpenVSLAM)
@@ -8,7 +14,7 @@
 * RPLidar A1 plugin for virtual touch screen project (C++, UE4)
 * Yost 3-Space sensor plugin (C++, UE4)
 * Blackmagic DeckLink capture card plugin (C++, UE4)
-* Assetto Corsa C++ SDK (C++, IDA)
+* Assetto Corsa SDK (C++)
 
 ### 2018
 
@@ -66,6 +72,14 @@
 * Position based dynamics simulation (C++, OpenGL)
 
 ## Showroom
+
+### Racing simulator physics
+
+![img](img/sim1.jpg)
+
+[videoA](https://www.youtube.com/watch?v=ReH5SKfPKS8)
+
+[videoB](https://www.youtube.com/watch?v=_Vdnzy6Gkxc)
 
 ### Depth mapping
 
