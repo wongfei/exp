@@ -11,7 +11,7 @@
 * Robot platform odometry and SLAM (C++, eLinux, JetsonTK1, OpenNI2, OctoMap, ORB_SLAM2, OpenVSLAM)
 * Android sensor reader plugin (C++, UE4, Java, Android)
 * Arduino device communication plugin (C, C++, UE4)
-* RPLidar A1 plugin for virtual touch screen project (C++, UE4)
+* RPLidar plugin for virtual touch screen project (C++, UE4)
 * Yost 3-Space sensor plugin (C++, UE4)
 * Blackmagic DeckLink capture card plugin (C++, UE4)
 * Assetto Corsa SDK (C++)
@@ -49,12 +49,12 @@
 ### 2013
 
 * Support Windows kernel display driver (C, C++, WDM, WDDM)
-* Find people by interests service (C#, Mono, LAMP)
 
 ### 2012
 
+* Find people by interests service (C#, Mono, LAMP)
 * Bot for Stronghold Kingdoms MMORTS (C#, Mono, ASP.NET)
-* Profile and optimize OpenNI SDK (C, C++, eLinux, PandaBoard)
+* Profile and optimize OpenNI SDK (C, C++, eLinux)
 * OpenNI browser plugin (C++, boost, NPAPI, Firebreath)
 
 ### 2011
@@ -66,10 +66,8 @@
 
 * Data analysis and report generation module (C++, WinAPI, MFC, ODBC)
 * Modbus TCP/RTU module (C++, WinAPI, WinSock, MFC)
-* Hidden objects puzzle game (Lua, Playground SDK)
 * Control system of industrial process (C, Codesys, Wago, PLC)
-* Port corporate web portal (C#, ASP.NET2, MSSQL)
-* Position based dynamics simulation (C++, OpenGL)
+* Modeling dynamic deformation with mass points and springs (C++, OpenGL)
 
 ## Showroom
 
