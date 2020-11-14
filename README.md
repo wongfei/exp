@@ -4,6 +4,7 @@
 
 ### 2020
 
+* Custom mocap data provider plugin (C++, UE4, Live Link, ZeroMQ, Protobuf, Crypto++)
 * Reverse engineer and reimplement racing simulator physics (C++, UE4)
 
 ### 2019
