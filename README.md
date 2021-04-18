@@ -2,6 +2,11 @@
 
 [Skip boring text..](#showroom)
 
+### 2021
+
+* Remote process control daemon for PC/Android with watchdog/autoupdate (C#, Net Core, Xamarin)
+* Skeletal mesh dynamic paint, gibs, interactive blood fx (UE4)
+
 ### 2020
 
 * Custom mocap data provider plugin (C++, UE4, Live Link, ZeroMQ, Protobuf, Crypto++)
